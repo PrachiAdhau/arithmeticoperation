@@ -20,7 +20,7 @@ public class Operation {
 
 	public int m1()
 	{
-		System.out.println("non return parameterzied method");
+		System.out.println("non return parameterzied method"); 
 	}
 	
 }
