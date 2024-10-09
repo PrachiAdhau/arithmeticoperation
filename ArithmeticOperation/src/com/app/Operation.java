@@ -14,6 +14,9 @@ public class Operation {
 	{
 		System.out.println("m3 method");
 	}
+	public void add(){
+		System.out.println("add method");
+	}
 	
 	
 }
