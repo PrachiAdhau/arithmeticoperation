@@ -24,4 +24,9 @@ public class Operation {
 		return 0;
 	}
 	
+	public void childBranch()
+	{
+		System.out.println("non return parameterzied method");
+	}
+	
 }
