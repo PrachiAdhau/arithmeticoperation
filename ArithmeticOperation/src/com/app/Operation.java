@@ -15,5 +15,4 @@ public class Operation {
 		System.out.println("m3 method");
 	}
 	
-	
 }
