@@ -18,9 +18,10 @@ public class Operation {
 		System.out.println("add method");
 	}
 
-	public int m1()
+	public int m5()
 	{
 		System.out.println("non return parameterzied method");
+		return 0;
 	}
 	
 }
